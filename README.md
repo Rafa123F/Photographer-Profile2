@@ -4,7 +4,7 @@ This is a responsive portfolio website for a freelance photographer. It showcase
 
 ![Screenshot of Photographer Profile Website](img/Screenshot1.png)
 ![Screenshot of Photographer Profile Website](img/Screenshot2.png)
-![Screenshot of Photographer Profile Website](img/screenshot3.png)
+![Screenshot of Photographer Profile Website](img/Screenshot3.png)
 ![Screenshot of Photographer Profile Website](img/Screenshot4.png)
 ![Screenshot of Photographer Profile Website](img/Screenshot5.png)
 
